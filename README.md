@@ -1,4 +1,4 @@
-# 🧠 Image-Processing-and-Computer-Vision with Python 🖼️
+# 🧠 Image Processing and Computer Vision with Python 
 
 This repository is a hands-on collection of Jupyter notebooks exploring fundamental and advanced concepts in image processing and computer vision using Python. Perfect for beginners and intermediates who want to understand how digital images are analyzed, filtered, enhanced, and segmented.
 
